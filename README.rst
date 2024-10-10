@@ -1,23 +1,6 @@
-Title
+Base report to printer no print not active
 =======
-
-Description
-==============
-
-Configuration
-=============
-
-Usage
-=====
-Description usage
-
-
-Dependencies
-===============
-
-
-Credits
-=======
+Modulo per evitare che stampi se non risulta attiva
 
 Authors
 ~~~~~~~
@@ -27,4 +10,4 @@ Authors
 Contributors
 ~~~~~~~~~~~~
 
-* Moccia Francesco <moccia.f@stesi.consulting>
+* Michele <dicroce.m@stesi.consulting>

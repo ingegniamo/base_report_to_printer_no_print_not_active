@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "",
+    'name': "Base report to printer no print not active",
     
     'summary': "",
   
@@ -10,12 +10,12 @@
 
     'category': '',
   
-    'version': '17.0.0.1',
+    'version': '16.0.0.1',
   
     'website': "http://www.stesi.consulting",
 
     # any module necessary for this one to work correctly
-    'depends': [],
+    'depends': ["base_report_to_printer"],
     
     # always loaded
     'data': [],
